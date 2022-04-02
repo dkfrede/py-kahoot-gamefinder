@@ -1,2 +1,2 @@
 # py-kahoot-gamefinder
-requires requests
+requires requests & time & os & random
